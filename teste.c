@@ -2,7 +2,8 @@
 
 int main(){
 
-	int teste
-
+	int teste = 1;
+	
+	printf("teste %i", teste);
 	return 0;
 }
